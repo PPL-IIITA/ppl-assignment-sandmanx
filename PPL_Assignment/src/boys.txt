@@ -1,0 +1,11 @@
+Andy 6 7 4500 5
+Kaleb 6 7 4000 5
+Edward 7 5 3500 6
+Dinesh 8 8 5000 7
+Harry 5 9 3700 5
+Christopher 4 7 4600 5
+Mike 8 7 3200 6
+Gilfoyle 9 6 4300 8
+Erlich 5 7 4100 6
+Bighetti 6 8 3600 5
+
