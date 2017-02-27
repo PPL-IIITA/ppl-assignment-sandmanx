@@ -1,0 +1,7 @@
+Violet 3400 25 essential
+Indigo 2300 12 essential
+Blue 4800 43 luxury
+Green 3445 34 utility
+Yellow 4480 40 utility
+Orange 3900 47 utility
+Red 4900 56 luxury

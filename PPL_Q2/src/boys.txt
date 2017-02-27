@@ -1,0 +1,11 @@
+Andy 6 7 4500 5 miser
+Kaleb 6 7 4000 5 generous
+Edward 7 5 3500 6 geeks
+Dinesh 8 8 5000 7 generous
+Harry 5 9 3700 5 miser
+Christopher 4 7 4600 5 geeks
+Mike 8 7 3200 6 miser
+Gilfoyle 9 6 4300 8 geeks
+Erlich 5 7 4100 6 generous
+Bighetti 6 8 3600 5 geeks
+
